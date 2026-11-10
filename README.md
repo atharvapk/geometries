@@ -1,5 +1,5 @@
-# Geometries
-An exploration of geometric modelling for CAE
+# Geometries Monorepo
+An exploration of geometric modelling for CAE, some conversion work, some automation work, and tinkering with opensource modelling engines.
 
 Some questions I want to explore:
 1. How do we know there's something there? UV-net's trimming mask? Can we improve on that?
